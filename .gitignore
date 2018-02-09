@@ -1,3 +1,6 @@
 input
 *csv
 .ipynb_checkpoints/
+*tsv
+*json
+learn
